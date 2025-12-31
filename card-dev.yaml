@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank cards related Dev APIs "
+  message: "Welcome to EazyBank cards related Devlopment APIs "
   contactDetails:
     name: "Natrix - Developer"
     email: "{cipher}e1279e7b4fbbd42d4211417b40f4e2666a37fd3231f4244bac957fe0105bc4534403ecc83cae06e29d190bac8d351c9b"
